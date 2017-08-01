@@ -69,4 +69,8 @@ public class Entry {
         return entries;
 
     }
+
+    public int getDuration() {
+
+    }
 }
